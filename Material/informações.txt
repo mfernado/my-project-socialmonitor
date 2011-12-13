@@ -1,0 +1,47 @@
+Gestão de riscos em redes sociais
+agregadores de redes sociais
+Concorrentes
+hootsuite
+BrandViewer
+
+
+- O porque da escolha do tema; (Gosto, Preparo, Utilidade, Fontes, ETC.)
+- Revisão de literatura; (Uns 3 ou 4 livros usados como base, só citar);
+- Problematização;
+- Seleção / Delimitação;
+- Geração da Hipóteses;
+- Cronograma.
+
+
+Monitoramento de Redes Sociais
+
+1- Monitorar Twitter e Facebook.
+2- Respostas pré configurados e Marketing.
+3- Robô que varre a cada 05 minutos trazendo automaticamente conteúdos relevantes.
+4- Estatisticas.
+5 - Relatórios.
+6 - Concorrentes. 
+
+Comparação de duas ferramentas pagas:
+
+HootSuíte
+BrandViewer
+
+
+Tecnologias para desenvolvimento do Projeto.
+
+Linguagem 
+
+PHP
+
+Banco de Dados
+
+Mysql
+
+API do Twitter e Facebok.
+
+
+http://www.em.com.br/app/noticia/economia/2011/03/15/internas_economia,215206/juiz-determina-que-compradora-retire-do-ar-paginas-da-internet-em-que-reclama-de-carro.shtml
+
+http://www.gizmodo.com.br/conteudo/cliente-cria-site-para-reclamar-da-renault-e-obrigada-pela-justica-a-retira-lo-do-ar/
+
